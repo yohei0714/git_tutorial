@@ -7,4 +7,4 @@ print('OK')
 
 print(3+4)
 
-print(5+6)
+print('hello world')
