@@ -8,4 +8,6 @@ def func2(x, y ,z):
 
 def func3(x, y):
     return x*y
-    
+
+def func4(x):
+    return x**2 + x
